@@ -2,7 +2,7 @@
 
 Painlessly send Windows toast notifications from the desktop.
 
-**OUT OF MAINTENANCE.** This repository will no longer be maintained. PRs are welcome but don't count on it. Please use other better-maintained projects such as [https://github.com/mikaelbr/node-notifier](node-notifier).
+**OUT OF MAINTENANCE.** This repository will no longer be maintained. PRs are welcome but don't count on it. Please use other better-maintained projects such as [node-notifier](https://github.com/mikaelbr/node-notifier).
 
 ## Installation
 
